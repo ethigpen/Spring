@@ -1087,3 +1087,591 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-08-06 13:55:45.924
 !MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:10.209
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:10.210
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:10.454
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:10.455
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:10.956
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:10.956
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.007
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.007
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.052
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.053
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.087
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.088
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.126
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.126
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.130
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.133
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.134
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb routing false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.134
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.162
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.320
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.325
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.327
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.328
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb routing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.328
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.337
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.570
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.585
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.586
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb routing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.587
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.594
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.731
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.734
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.735
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb routing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.735
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.742
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.811
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.816
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.818
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb routing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.818
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:11.837
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.956
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.957
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:11.972
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.245
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.245
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.245
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.305
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.306
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.306
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.339
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.341
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.343
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb routing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.343
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.361
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.818
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.822
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.822
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.943
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:12.944
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.987
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.990
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.991
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb routing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:12.995
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:13.044
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.126
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.129
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.132
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.193
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.194
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.194
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:13.195
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:13.197
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:13.198
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb routing false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:13.198
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 14:06:13.207
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.390
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.392
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.402
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.873
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.880
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:13.881
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.097
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.097
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.098
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.170
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.171
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.171
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.298
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.300
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:14.301
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:15.971
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:15.978
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:15.979
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:16.176
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:16.177
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:16.177
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:43.733
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:43.735
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:43.735
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:44.428
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:44.431
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:06:44.444
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:07:13.120
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:07:13.120
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:07:13.121
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:07:13.908
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:07:13.912
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:07:13.912
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:05.596
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:05.597
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:05.597
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:06.458
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:06.461
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:06.465
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:26.052
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:26.052
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:26.052
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:26.845
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:26.848
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:08:26.871
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:09:42.600
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:09:42.603
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:09:42.608
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:09:43.430
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:09:43.434
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:09:43.434
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:23:09.468
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:23:09.471
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:23:09.472
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:23:10.795
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:23:10.802
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:23:10.802
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:27:34.830
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:27:34.831
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:27:34.831
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:27:35.691
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:27:35.696
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:27:35.735
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:28:41.253
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:28:41.258
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:28:41.259
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:28:42.024
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:28:42.027
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:28:42.027
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:30:39.687
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:30:39.688
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:30:39.688
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:30:40.473
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:30:40.479
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:30:40.479
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:05.009
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:05.035
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:05.038
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:05.788
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:05.794
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:05.794
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:23.143
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:23.144
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:23.144
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:23.875
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:23.879
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:23.879
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:35:34.182
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:35:34.184
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:35:34.184
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:35:34.915
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:35:34.920
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:35:34.920
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 14:36:12.031
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-06 14:36:25.187
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:36:25.188
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:36:25.189
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:36:26.278
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:36:26.286
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:36:26.286
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:44.695
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:44.698
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:44.698
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:45.594
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:45.598
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:45.599
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:42:51.723
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:42:51.723
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:42:51.724
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:42:52.447
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:42:52.450
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:42:52.453
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:44:18.154
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:44:18.161
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:44:18.161
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 14:44:18.919
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 14:44:18.923
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 14:44:18.924
+!MESSAGE Has main method computation for project 'hello_world'

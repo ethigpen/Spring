@@ -1675,3 +1675,1177 @@ java.lang.InterruptedException
 
 !ENTRY Activator 1 0 2021-08-06 14:44:18.924
 !MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:40.826
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:40.828
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:40.829
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:40.964
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:40.964
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:40.964
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.563
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.563
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.563
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.593
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.593
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.595
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.626
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.627
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.627
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.659
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.659
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.659
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.707
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.707
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.707
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.741
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.741
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.742
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.779
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.780
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.780
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:41.826
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:41.829
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:41.830
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb hello_human false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:41.830
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.857
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.857
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:41.862
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:41.882
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 15:33:42.092
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:42.416
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:42.472
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:42.474
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb hello_human false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:42.481
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:42.525
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.360
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.361
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.361
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.408
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.663
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.663
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.663
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.663
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:43.666
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:43.681
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:43.683
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb hello_human false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:43.683
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.695
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.695
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.695
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.696
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:43.705
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.731
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.731
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.731
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.731
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.774
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.775
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.775
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.775
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.836
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.836
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.836
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.836
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.871
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.871
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.871
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.871
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.976
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.977
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.977
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:43.977
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:43.979
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.002
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.004
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb hello_human false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.004
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.008
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.047
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.049
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.052
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb hello_human false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.055
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:44.102
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 15:33:44.191
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:44.197
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:44.200
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:44.201
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.339
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.342
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.342
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.342
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.564
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.565
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.565
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.565
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.664
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.666
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.669
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:45.669
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:45.674
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:45.680
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:45.681
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb hello_human false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:45.682
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:45.703
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 15:33:46.540
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:46.548
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:46.548
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:46.548
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:46.800
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:46.808
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:46.811
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb hello_human false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:46.812
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:46.865
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 15:33:46.955
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:46.955
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:46.956
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:46.970
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.016
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.016
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.016
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.016
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.139
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:47.139
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.139
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.139
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.139
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:47.142
+!MESSAGE classpath=66 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:47.143
+!MESSAGE buffering callback sts4.classpath.BAZAUEFb hello_human false 66
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:47.143
+!MESSAGE executing callback sts4.classpath.BAZAUEFb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 15:33:47.159
+!MESSAGE executing callback sts4.classpath.BAZAUEFb SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.342
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.342
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.342
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.349
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.419
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.420
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.420
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.420
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.570
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.571
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.571
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.571
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.695
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.695
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.695
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.696
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.732
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.732
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.732
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.732
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.820
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.822
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.823
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:47.823
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:49.519
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:49.520
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:49.520
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:33:49.520
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:34:27.704
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:34:27.705
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:34:27.705
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:34:27.705
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:34:28.863
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:34:28.872
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:34:28.873
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:34:28.925
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:35:38.989
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:35:38.991
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:35:38.991
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:35:38.991
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:35:40.223
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:35:40.228
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:35:40.229
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:35:40.229
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:36:41.584
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:36:41.585
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:36:41.585
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:36:41.585
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:36:42.409
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:36:42.415
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:36:42.415
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:36:42.416
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:14.238
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:14.238
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:14.238
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:14.238
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:14.816
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:14.816
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:14.816
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:14.816
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:45.045
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:45.047
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:45.048
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:45.048
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:46.423
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:46.430
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:46.432
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:37:46.432
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:39:23.169
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:39:23.172
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:39:23.172
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:39:23.172
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:39:23.901
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:39:23.905
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:39:23.905
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:39:23.905
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 15:41:06.813
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 15:41:17.246
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-06 15:43:22.099
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:43:22.101
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:43:22.102
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:43:22.102
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:43:22.981
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:43:22.989
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:43:22.989
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:43:23.022
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:51:34.827
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:51:34.829
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:51:34.829
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:51:34.829
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:51:35.551
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:51:35.554
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:51:35.554
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:51:35.554
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:52:34.918
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:52:34.919
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:52:34.919
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:52:34.919
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:52:35.647
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:52:35.650
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:52:35.650
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:52:35.650
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:53:22.915
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 15:53:22.918
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:53:22.918
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:53:22.918
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:53:23.581
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 15:53:23.584
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 15:53:23.584
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 15:53:23.584
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-08-06 15:53:57.708
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.thigpen.hello_human;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HelloHuman {
+	
+	@RequestMapping("/")
+	public String home(@RequestParam(value="first_name", required=false) String first_name, @RequestParam(value="last_name", required=false) String last_name) {
+		if (name==null) {
+			return "<h1>Hello Human!<h1>" + "<p>Welcome to Spring Boot!<p>";
+		}else {
+			return "<h1>Hello " + first_name + " "!<h1>" + "<p>Welcome to Spring Boot!<p>" + "<a href ='/' >Go Back</a>";
+		}
+
+	}
+
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 2 2021-08-06 15:53:57.714
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ui".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.ui 4 0 2021-08-06 15:53:57.715
+!MESSAGE Error in JDT Core during reconcile
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.AST.convertCompilationUnit(AST.java:494)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:201)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:597)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1142)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1319)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.access$0(JavaReconcilingStrategy.java:113)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy$1.run(JavaReconcilingStrategy.java:93)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconcile(JavaReconcilingStrategy.java:157)
+	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.reconcile(CompositeReconcilingStrategy.java:94)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconcile(JavaCompositeReconcilingStrategy.java:107)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.process(MonoReconciler.java:76)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:210)
+
+!ENTRY org.eclipse.jdt.core 4 4 2021-08-06 15:53:57.783
+!MESSAGE Exception occurred during compilation unit conversion:
+----------------------------------- SOURCE BEGIN -------------------------------------
+package com.thigpen.hello_human;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HelloHuman {
+	
+	@RequestMapping("/")
+	public String home(@RequestParam(value="first_name", required=false) String first_name, @RequestParam(value="last_name", required=false) String last_name) {
+		if (name==null) {
+			return "<h1>Hello Human!<h1>" + "<p>Welcome to Spring Boot!<p>";
+		}else {
+			return "<h1>Hello " + first_name + " "!<h1>" + "<p>Welcome to Spring Boot!<p>" + "<a href ='/' >Go Back</a>";
+		}
+
+	}
+
+}
+
+----------------------------------- SOURCE END -------------------------------------
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 2 2021-08-06 15:53:57.785
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core.manipulation".
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 0 2021-08-06 15:53:57.786
+!MESSAGE Error in JDT Core during AST creation
+!STACK 0
+java.lang.IllegalArgumentException
+	at org.eclipse.jdt.core.dom.InfixExpression.setOperator(InfixExpression.java:383)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1287)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:2031)
+	at org.eclipse.jdt.core.dom.ASTConverter.convertToParenthesizedExpression(ASTConverter.java:3795)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1943)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1204)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1974)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3052)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:751)
+	at org.eclipse.jdt.core.dom.ASTConverter.buildBodyDeclarations(ASTConverter.java:208)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:3347)
+	at org.eclipse.jdt.core.dom.ASTConverter.convert(ASTConverter.java:1524)
+	at org.eclipse.jdt.core.dom.CompilationUnitResolver.convert(CompilationUnitResolver.java:323)
+	at org.eclipse.jdt.core.dom.ASTParser.internalCreateAST(ASTParser.java:1231)
+	at org.eclipse.jdt.core.dom.ASTParser.createAST(ASTParser.java:820)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider$1.run(CoreASTProvider.java:272)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.createAST(CoreASTProvider.java:264)
+	at org.eclipse.jdt.core.manipulation.CoreASTProvider.getAST(CoreASTProvider.java:197)
+	at org.eclipse.jdt.core.manipulation.SharedASTProviderCore.getAST(SharedASTProviderCore.java:138)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup.calculateASTandInform(SelectionListenerWithASTManager.java:166)
+	at org.eclipse.jdt.internal.ui.viewsupport.SelectionListenerWithASTManager$PartListenerGroup$1.run(SelectionListenerWithASTManager.java:151)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 15:54:57.928
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 15:56:28.323
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 15:56:40.086
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-06 16:04:01.712
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:04:01.713
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:04:01.713
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:04:01.713
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:04:03.015
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:04:03.021
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:04:03.024
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:04:03.024
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:08:43.717
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:08:43.719
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:08:43.719
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:08:43.719
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:08:44.973
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:08:44.977
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:08:44.980
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:08:44.980
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:09:45.990
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:09:45.991
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:09:45.991
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:09:45.991
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:09:47.011
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:09:47.019
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:09:47.019
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:09:47.019
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:10:02.229
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:10:02.229
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:10:02.229
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:10:02.229
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:10:02.937
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:10:02.940
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:10:02.940
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:10:02.940
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:17:34.896
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:17:34.897
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:17:34.897
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:17:34.897
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:17:35.614
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:17:35.618
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:17:35.618
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:17:35.618
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:18:19.971
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:18:19.971
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:18:19.971
+!MESSAGE Has main method computation for project 'routing'
+
+!ENTRY Activator 1 0 2021-08-06 16:18:19.971
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:18:20.655
+!MESSAGE Has main method computation for project 'hello_human'
+
+!ENTRY Activator 1 0 2021-08-06 16:18:20.658
+!MESSAGE Has main method computation for project 'hello_world'
+
+!ENTRY Activator 1 0 2021-08-06 16:18:20.658
+!MESSAGE Has main method computation for project 'strings'
+
+!ENTRY Activator 1 0 2021-08-06 16:18:20.658
+!MESSAGE Has main method computation for project 'routing'

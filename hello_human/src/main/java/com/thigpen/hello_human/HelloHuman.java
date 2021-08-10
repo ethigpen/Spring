@@ -9,6 +9,7 @@ public class HelloHuman {
 	
 	@RequestMapping("/")
 	public String home(@RequestParam(value="fname", required=false) String first_name, @RequestParam(value="lname", required=false) String last_name) {
+		
 		if (first_name == null) {
 			return "<h1>Hello Human!</h1>" + "<p>Welcome to Spring Boot!</p>";
 		}else {
